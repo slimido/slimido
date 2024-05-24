@@ -1,16 +1,13 @@
-## Hi there 👋
+## Kauã Alcará Dias
 
-<!--
-**slimido/slimido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏐-Jogador de vôlei 
 
-Here are some ideas to get you started:
+📕-Estudante 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨-Serralheiro 
+
+💍-A
+
+🩹-Futuro Psicologo 
+
+![](https://media1.tenor.com/m/wy2zHeWyf2gAAAAd/side-eye-dog-suspicious-look.gif)
